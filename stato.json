@@ -652,17 +652,17 @@
       "url": "https://megacomics.eu/product/gundam-assemble-starter-set-01-st01-bandai/"
     },
     "27728": {
-      "disponibile": true,
+      "disponibile": false,
       "nome": "RAMEN CULTURE SOUP &#8211; MAGAZINE N.3 OTTOBRE 2016",
       "url": "https://megacomics.eu/product/ramen-culture-soup-magazine-n-3-ottobre-2016/"
     },
     "27726": {
-      "disponibile": true,
+      "disponibile": false,
       "nome": "RAMEN CULTURE SOUP &#8211; MAGAZINE N.1 APRILE 2026",
       "url": "https://megacomics.eu/product/ramen-culture-soup-magazine-n-1-aprile-2026/"
     },
     "27724": {
-      "disponibile": true,
+      "disponibile": false,
       "nome": "RAMEN CULTURE SOUP &#8211; MAGAZINE N.2 LUGLIO 2026",
       "url": "https://megacomics.eu/product/ramen-culture-soup-magazine-n-2-luglio-2026/"
     },
@@ -3407,7 +3407,7 @@
       "url": "https://megacomics.eu/product/dragon-ball-super-card-game-fusion-world-box-24-booster-fb12-eng/"
     },
     "26094": {
-      "disponibile": false,
+      "disponibile": true,
       "nome": "ONE PIECE &#8211; BOX 24 BOOSTER (EB06) &#8211; (ENG)",
       "url": "https://megacomics.eu/product/one-piece-box-24-booster-eb06-eng/"
     },
@@ -4072,12 +4072,12 @@
       "url": "https://megacomics.eu/product/lorcana-box-24-booster-incanto-dinverno-ita/"
     },
     "25693": {
-      "disponibile": false,
+      "disponibile": true,
       "nome": "STAR WARS UNLIMITED &#8211; STARTER 2 GIOCATORI &#8211; TWILIGHT OF THE REPUBLIC &#8211; (ENG)",
       "url": "https://megacomics.eu/product/star-wars-unlimited-starter-2-giocatori-twilight-of-the-republic-eng/"
     },
     "25691": {
-      "disponibile": false,
+      "disponibile": true,
       "nome": "STAR WARS UNLIMITED &#8211; STARTER 2 GIOCATORI &#8211; OMBRE SULLA GALASSIA &#8211; (ITA)",
       "url": "https://megacomics.eu/product/star-wars-unlimited-starter-2-giocatori-ombre-sulla-galassia-ita/"
     },
@@ -4137,12 +4137,12 @@
       "url": "https://megacomics.eu/product/lorcana-starter-deck-il-regno-di-jafar-ambra-ametista-ita/"
     },
     "25662": {
-      "disponibile": false,
+      "disponibile": true,
       "nome": "Digimon Card Game &#8211; ST-21 STARTER DECK HERO OF HOPE &#8211; (ENG)",
       "url": "https://megacomics.eu/product/digimon-card-game-st-21-starter-deck-hero-of-hope-eng/"
     },
     "25661": {
-      "disponibile": false,
+      "disponibile": true,
       "nome": "Digimon Card Game &#8211; ST-20 STARTER DECK PROTECTOR OF LIGHT &#8211; (ENG)",
       "url": "https://megacomics.eu/product/digimon-card-game-st-20-starter-deck-protector-of-light-eng/"
     },
