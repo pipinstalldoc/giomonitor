@@ -2,7 +2,7 @@
   "version": 1,
   "products": {
     "28011": {
-      "disponibile": false,
+      "disponibile": true,
       "nome": "[G243] ANIMALI AFRICANI &#8211; PUBBLICAZIONI EDITORIALI INTERNAZIONALI",
       "url": "https://megacomics.eu/product/g243-animali-africani-pubblicazioni-editoriali-internazionali/"
     },
@@ -2657,22 +2657,22 @@
       "url": "https://megacomics.eu/product/one-piece-illustration-box-ib-08-kid-killer-eng/"
     },
     "26537": {
-      "disponibile": true,
+      "disponibile": false,
       "nome": "STAR WARS UNLIMITED &#8211; TWIN SUNS FORMAT &#8211; CONTRO OGNI PRONOSTICO &#8211; (ITA)",
       "url": "https://megacomics.eu/product/star-wars-unlimited-twin-suns-format-contro-ogni-pronostico-ita/"
     },
     "26536": {
-      "disponibile": true,
+      "disponibile": false,
       "nome": "STAR WARS UNLIMITED &#8211; TWIN SUNS FORMAT &#8211; MAESTRO E APPRENDISTA &#8211; (ITA)",
       "url": "https://megacomics.eu/product/star-wars-unlimited-twin-suns-format-maestro-e-apprendista-ita/"
     },
     "26535": {
-      "disponibile": true,
+      "disponibile": false,
       "nome": "STAR WARS UNLIMITED &#8211; TWIN SUNS FORMAT &#8211; FRATELLI DI SANGUE &#8211; (ITA)",
       "url": "https://megacomics.eu/product/star-wars-unlimited-twin-suns-format-fratelli-di-sangue-ita/"
     },
     "26534": {
-      "disponibile": true,
+      "disponibile": false,
       "nome": "STAR WARS UNLIMITED &#8211; TWIN SUNS FORMAT &#8211; COMBATTIVO NEGOZIATO &#8211; (ITA)",
       "url": "https://megacomics.eu/product/star-wars-unlimited-twin-suns-format-combattivo-negoziato-ita/"
     },
@@ -3407,7 +3407,7 @@
       "url": "https://megacomics.eu/product/dragon-ball-super-card-game-fusion-world-box-24-booster-fb12-eng/"
     },
     "26094": {
-      "disponibile": true,
+      "disponibile": false,
       "nome": "ONE PIECE &#8211; BOX 24 BOOSTER (EB06) &#8211; (ENG)",
       "url": "https://megacomics.eu/product/one-piece-box-24-booster-eb06-eng/"
     },
@@ -4610,6 +4610,146 @@
       "disponibile": true,
       "nome": "POKEMON &#8211; MAZZO CAMPIONATI MONDIALI 2024 &#8211; EVAN PAVELSKI &#8211; REGIDRAGO VSTAR &#8211; (ITA)",
       "url": "https://megacomics.eu/product/pokemon-mazzo-campionati-mondiali-2024-evan-pavelski-regidrago-vstar-ita/"
+    },
+    "28077": {
+      "disponibile": true,
+      "nome": "[G175] It&#8217;s fantastic: Il fantastico sogno di Jonny",
+      "url": "https://megacomics.eu/product/g175-its-fantastic-il-fantastico-sogno-di-jonny/"
+    },
+    "28075": {
+      "disponibile": true,
+      "nome": "[G175] LA MASCELLA DI CAINO &#8211; TORQUEMADA &#8211; MONDADORI",
+      "url": "https://megacomics.eu/product/g175-la-mascella-di-caino-torquemada-mondadori/"
+    },
+    "28073": {
+      "disponibile": true,
+      "nome": "[G175] I VIAGGI DI MARCO POLO -NATIONAL GEOGRAPHIC HOBBY E WORK",
+      "url": "https://megacomics.eu/product/g175-i-viaggi-di-marco-polo-national-geographic-hobby-e-work/"
+    },
+    "28071": {
+      "disponibile": true,
+      "nome": "[G175] A CHE PUNTO E LA NOTTE &#8211; FRUTTERO E LUCENTINI &#8211; OSCAR MONDADORI",
+      "url": "https://megacomics.eu/product/g175-a-che-punto-e-la-notte-fruttero-e-lucentini-oscar-mondadori/"
+    },
+    "28069": {
+      "disponibile": true,
+      "nome": "[G175] LA FILOSOFIA NON E UNA BARBA &#8211; MATTEO SAUDINO &#8211; TEA",
+      "url": "https://megacomics.eu/product/g175-la-filosofia-non-e-una-barba-matteo-saudino-tea/"
+    },
+    "28067": {
+      "disponibile": true,
+      "nome": "[G175] RIBELLARSI CON FILOSOFIA &#8211; MATTEO SAUDINO &#8211; TEA",
+      "url": "https://megacomics.eu/product/g175-ribellarsi-con-filosofia-matteo-saudino-tea/"
+    },
+    "28065": {
+      "disponibile": true,
+      "nome": "[G175] ULISSE &#8211; JAMES JOYCE &#8211; OSCAR MONDADORI",
+      "url": "https://megacomics.eu/product/g175-ulisse-james-joyce-oscar-mondadori/"
+    },
+    "28063": {
+      "disponibile": true,
+      "nome": "[G175] IL CACCIATORE DI AQUILONI &#8211; KHALED HOSSEINI &#8211; PICKWICK",
+      "url": "https://megacomics.eu/product/g175-il-cacciatore-di-aquiloni-khaled-hosseini-pickwick/"
+    },
+    "28061": {
+      "disponibile": true,
+      "nome": "[G175] 86400 &#8211; LUCA MAZZUCCHELLI &#8211; GIUNTI",
+      "url": "https://megacomics.eu/product/g175-86400-luca-mazzucchelli-giunti/"
+    },
+    "28059": {
+      "disponibile": true,
+      "nome": "[G175] GIULIETTA E ROMEO &#8211; ROBERTO PIUMINI &#8211; EINAUDI RAGAZZI",
+      "url": "https://megacomics.eu/product/g175-giulietta-e-romeo-roberto-piumini-einaudi-ragazzi/"
+    },
+    "28057": {
+      "disponibile": true,
+      "nome": "[G244] ALLEGIANT UNA SCELTA PUÒ SEGNARTI &#8211; VERONICA ROTH &#8211; DEAGOSTINI BEST",
+      "url": "https://megacomics.eu/product/g244-allegiant-una-scelta-puo-segnarti-veronica-roth-deagostini-best/"
+    },
+    "28055": {
+      "disponibile": true,
+      "nome": "[G244] MITI E LEGGENDE DEI CELTI &#8211; MICHAEL FOSS &#8211; G.T.E. NEWTON",
+      "url": "https://megacomics.eu/product/g244-miti-e-leggende-dei-celti-michael-foss-g-t-e-newton/"
+    },
+    "28053": {
+      "disponibile": true,
+      "nome": "[G244] UNA STANZA TUTTA PER SE &#8211; VIRGINIA WOLF &#8211; PICCOLI TESORI",
+      "url": "https://megacomics.eu/product/g244-una-stanza-tutta-per-se-virginia-wolf-piccoli-tesori/"
+    },
+    "28051": {
+      "disponibile": true,
+      "nome": "[G244] COGITO ERGO SOFFRO &#8211; NARDONE E DE SANTIS &#8211; TEA",
+      "url": "https://megacomics.eu/product/g244-cogito-ergo-soffro-nardone-e-de-santis-tea/"
+    },
+    "28049": {
+      "disponibile": true,
+      "nome": "[G244] UNO, NESSUNO, E CENTOMILA &#8211; PIRANDELLO -NEWTON E COMPTON",
+      "url": "https://megacomics.eu/product/g244-uno-nessuno-e-centomila-pirandello-newton-e-compton/"
+    },
+    "28047": {
+      "disponibile": true,
+      "nome": "[G244] I COSIDDETTI SANI &#8211; ERICH FROMM &#8211; MIMESIS ETEROTOPIE",
+      "url": "https://megacomics.eu/product/g244-i-cosiddetti-sani-erich-fromm-mimesis-eterotopie/"
+    },
+    "28045": {
+      "disponibile": true,
+      "nome": "[G244] CERCANDO ALASKA &#8211; JOHN GREEN &#8211; RIZZOLI",
+      "url": "https://megacomics.eu/product/g244-cercando-alaska-john-green-rizzoli/"
+    },
+    "28043": {
+      "disponibile": true,
+      "nome": "[G243] Miti e leggende. Racconti del terrore",
+      "url": "https://megacomics.eu/product/g243-miti-e-leggende-racconti-del-terrore/"
+    },
+    "28041": {
+      "disponibile": true,
+      "nome": "[G243] IL LIBRO DELLE PISTOLE &#8211; JOHN WALTER &#8211; LIBRI ITALIA",
+      "url": "https://megacomics.eu/product/g243-il-libro-delle-pistole-john-walter-libri-italia/"
+    },
+    "28039": {
+      "disponibile": true,
+      "nome": "[G243] ABC del corpo umano selezione dal readers’s digest",
+      "url": "https://megacomics.eu/product/g243-abc-del-corpo-umano-selezione-dal-readerss-digest/"
+    },
+    "28036": {
+      "disponibile": true,
+      "nome": "[G243] Storia d&#8217;America volume 1 pirate press",
+      "url": "https://megacomics.eu/product/g243-storia-damerica-volume-1-pirate-press/"
+    },
+    "28034": {
+      "disponibile": true,
+      "nome": "[G243] Racconti mitologici- dami editore",
+      "url": "https://megacomics.eu/product/g243-racconti-mitologici-dami-editore/"
+    },
+    "28032": {
+      "disponibile": true,
+      "nome": "[G243] ANIMALI FANTASTICI &#8211; MITI E LEGGENDE",
+      "url": "https://megacomics.eu/product/g243-animali-fantastici-miti-e-leggende/"
+    },
+    "28030": {
+      "disponibile": true,
+      "nome": "[G243] MITI E LEGGENDE &#8211; FANTASMI &#8211; HOBBY E WORK ITALIANA EDITRICE",
+      "url": "https://megacomics.eu/product/g243-miti-e-leggende-fantasmi-hobby-e-work-italiana-editrice/"
+    },
+    "28028": {
+      "disponibile": true,
+      "nome": "[G243] L&#8217;educazione morale nella scuola materna. Editrice La Scuola.",
+      "url": "https://megacomics.eu/product/g243-leducazione-morale-nella-scuola-materna-editrice-la-scuola/"
+    },
+    "28026": {
+      "disponibile": true,
+      "nome": "[G243] Mostri, Alieni, Vampiri, Mutanti. IL CINEMA FANTASTICO VOL 1",
+      "url": "https://megacomics.eu/product/g243-mostri-alieni-vampiri-mutanti-il-cinema-fantastico-vol-1/"
+    },
+    "28024": {
+      "disponibile": true,
+      "nome": "[G243] I FRATELLI KIP &#8211; G. VERNE &#8211; ED. CAPITOL BOLOGNA 1959",
+      "url": "https://megacomics.eu/product/g243-i-fratelli-kip-g-verne-ed-capitol-bologna-1959/"
+    },
+    "28022": {
+      "disponibile": true,
+      "nome": "STAR WARS UNLIMITED &#8211; 4 TWIN SUNS DECK &#8211; BOX DISPLAY &#8211; (ITA)",
+      "url": "https://megacomics.eu/product/star-wars-unlimited-4-twin-suns-deck-box-display-ita/"
     }
   }
 }
